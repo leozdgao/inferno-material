@@ -1,0 +1,11 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "browsers": ["android >= 4.4", "ios >=8"]
+      },
+      "useBuiltIns": true,
+      "debug": true
+    }]
+  ]
+}
